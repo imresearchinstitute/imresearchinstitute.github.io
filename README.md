@@ -1,6 +1,3 @@
-# imresearchinstitute
-Im Research Institute
-
 # Current research and development:
 
 TNN - Time based (sequence/temporal) Neural Network software. Includes java source and bash util scripts. Uses tanh threshold function.
