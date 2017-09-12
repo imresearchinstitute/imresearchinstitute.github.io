@@ -6,7 +6,7 @@ Freex - minimal linux distro (SUSE based). Name is homage to Linus original linu
 
 IO - (Interpreted Objects) - an object oriented interpreted (scripting) language with the following features: K&R style syntax, all objects (pure, no primitives), package is reflected file system path, built in reflection (getClass(), getMethod()), runs from command line (ie, #!/bin/io). In development.
 
-Kilgore - liguistic expression parsing and contextual matching. Currently porting to Python.
+Kilgore -  Natural Language Processing (NLP), liguistic expression parsing and contextual matching. Currently porting to Python, Javascript.
 
 TextGen - generate grammatical phrases from language database. Currently porting to Python.
 
