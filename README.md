@@ -14,4 +14,8 @@ Mathematics - Algorithms and analysis of prime and twin prime number distributio
 
 Brain Wave - study of external sensory stimuli (audio/visual) for induction of brain states and target frequencies; including binarual, pulse, ASRM, descending tones, square/sine wave; and strobe video.
 
+NASA - National Aeronautics and Space Administration
+Location Goddard Space Flight Center, Greenbelt MD
+Provided software development and support for Fermi Gamma Ray Space Telescope and SOHO Solar and Heliospheric Observatory projects. Transitioned SOHO spacecraft simulator software from Solaris to CentOS 7 Linux environment. Transitioned Fermi moc software from Redhat 5 32-bit environment to Redhat 7 64-bit environment. Developed in Linux Redhat/Centos and Solaris Unix environments. Developed with C, C++, python, bash, korn shell and perl.
+
 Contact at: imresearchinstitute@gmail.com
